@@ -203,7 +203,7 @@ Scalable + simple Docker setup
 ## 🧑‍💻 Author
 
 **Dr. Abdellah**  
-📺 YouTube: [@aarabxdrg](https://www.youtube.com/@)  
+📺 YouTube: [@aarabxdrg](https://www.youtube.com/@dkn4.hackers)  
 💡 Developer & Educator — programming, robotics, and AI automation tutorials.
 
 ----------
