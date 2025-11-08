@@ -76,7 +76,6 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxx
 
 ```
 
-⚠️ **Do NOT commit this file to GitHub** — your API keys are private.
 
 ----------
 
@@ -203,7 +202,7 @@ Scalable + simple Docker setup
 ## 🧑‍💻 Author
 
 **Dr. Abdellah**  
-📺 YouTube: [@aarabxdrg](https://www.youtube.com/@dkn4.hackers)  
+📺 YouTube: [@DKN4](https://www.youtube.com/@dkn4.hackers)  
 💡 Developer & Educator — programming, robotics, and AI automation tutorials.
 
 ----------
